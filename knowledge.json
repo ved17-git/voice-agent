@@ -1,0 +1,64 @@
+[
+  {
+    "id": "chunk_prop_offmarket_7742",
+    "document_name": "pocket_listings_q2_2026.json",
+    "category": "off_market_listing",
+    "tags": ["pocket_listing", "commercial", "distressed_seller", "value_add"],
+    "metadata": {
+      "property_id": "PID-7742",
+      "asset_class": "Multi-Family",
+      "internal_valuation_usd": 4200000,
+      "status": "Exclusive-Off-Market"
+    },
+    "content": "Confidential Pocket Listing: 24-unit multi-family complex at 880 Westheimer Rd. This property is strictly off-market. The current owner is facing a liquidity crisis due to cross-collateralized debt maturing in 90 days and is highly motivated. Internal physical inspection reveals deferred maintenance on the roof and HVAC systems (estimated $250k CapEx required). Current occupancy is 65% with below-market rents. If acquired at the internal valuation of $4.2M and stabilized post-renovation, our projected exit valuation in 36 months is $6.1M. Do not share with external brokerages; pitch only to internal high-net-worth (HNW) cash buyers."
+  },
+  {
+    "id": "chunk_crm_buyer_profile_910",
+    "document_name": "salesforce_crm_export_active_buyers.csv",
+    "category": "client_intelligence",
+    "tags": ["buyer_profile", "hnw_client", "1031_exchange", "timeline_critical"],
+    "metadata": {
+      "client_id": "CLI-910",
+      "client_tier": "VIP-Investor",
+      "pre_approval_limit_usd": 6500000,
+      "represented_by": "Agent_Sarah_Jenkins"
+    },
+    "content": "Client CRM Notes (ID: CLI-910, Harrison Capital Group): Client has successfully closed the sale of a retail strip mall and is currently sitting on $3.8M in liquid cash that must be deployed via a 1031 Tax-Deferred Exchange. Critical Timeline: The 45-day identification window expires on July 14, 2026. They are aggressively looking for triple-net (NNN) leased medical office buildings or stabilized multi-family assets. They will pass on any property requiring extensive permitting or structural rezoning. They are willing to bid 3-5% over internal valuation for an asset with a clean title and guaranteed 30-day escrow."
+  },
+  {
+    "id": "chunk_underwriting_proforma_pinnacle",
+    "document_name": "investment_committee_proformas_2026.xlsx",
+    "category": "investment_underwriting",
+    "tags": ["financial_model", "cap_rate", "noi", "cash_flow"],
+    "metadata": {
+      "project_name": "Pinnacle_Heights_Acquisition",
+      "target_irr_percent": 14.5,
+      "projected_cap_rate": 6.2
+    },
+    "content": "Internal Underwriting Pro-Forma - Pinnacle Heights: Acquisition target price is $12.5M. Year 1 Gross Potential Rent (GPR) is modeled at $1.2M. After factoring in a 5% physical vacancy rate and projected operating expenses (including a 12% property management fee and reassessed property taxes), the Year 1 Net Operating Income (NOI) is projected at $775,000. This yields an entry Cap Rate of 6.2%. Our value-add strategy involves upgrading unit interiors at $8,500 per door, which our comps indicate will support a $250/month rent premium, pushing Year 3 stabilized NOI to $940,000."
+  },
+  {
+    "id": "chunk_zoning_intel_riverfront",
+    "document_name": "municipal_lobbying_updates_may.pdf",
+    "category": "market_intelligence",
+    "tags": ["zoning_variance", "land_assembly", "infrastructure", "city_council"],
+    "metadata": {
+      "municipality": "District_4_Riverfront",
+      "intel_source": "City_Planning_Liaison",
+      "reliability": "High"
+    },
+    "content": "Confidential Zoning Intelligence (District 4 Riverfront): Our liaison in the city planning office has confirmed off-the-record that the proposed \"Transit-Oriented Development (TOD) Ordinance\" will pass the city council vote next month. This ordinance will automatically up-zone all parcels within a half-mile radius of the new light rail station from low-density commercial (C-1) to high-density mixed-use (MXD-3), removing current height restrictions. Action item for acquisition team: Aggressively target and assemble the four adjacent auto-repair lots on 5th Street before the zoning change is made public, as land value will instantly double upon passage."
+  },
+  {
+    "id": "chunk_vendor_pricing_contractors",
+    "document_name": "preferred_vendor_pricing_slas_2026.md",
+    "category": "operations_and_vendors",
+    "tags": ["contractor_pricing", "renovation", "plumbing", "procurement"],
+    "metadata": {
+      "vendor_name": "Apex_Commercial_Builders",
+      "contract_status": "Active_SLA",
+      "service_type": "General_Contracting"
+    },
+    "content": "Proprietary Vendor SLA - Apex Commercial Builders: Under our 2026 master service agreement, Apex provides our firm with a guaranteed 18% discount off standard retail pricing for all multi-family unit turns. Standard unit turn pricing is locked at $4,200 for cosmetic updates (paint, luxury vinyl plank flooring, standard fixtures) and $9,500 for heavy turns (adding quartz countertops, custom cabinetry, and stainless steel appliance packages). Emergency plumbing dispatches are billed at a flat $120/hour rate with no off-hours multiplier. Turnaround time for a standard unit must not exceed 10 business days, or Apex incurs a $150/day penalty deducted from their final invoice."
+  }
+]
