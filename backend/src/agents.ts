@@ -27,21 +27,3 @@ export class Agent extends voice.Agent{
         })
     }
 }
-
-// export class RagAgent extends voice.Agent {
-//   async onUserTurnCompleted(
-//     chatCtx: llm.ChatContext, 
-//     newMessage: llm.ChatMessage,
-//   ): Promise<void> {
-
-//     // RAG function definition omitted for brevity //db call
-//     const ragContent = await myRagLookup(newMessage.textContent);
-
-
-//     chatCtx.addMessage({
-//       role: 'assistant',
-//       content: `Additional information relevant to the user's next message: ${ragContent}`,
-//     });
-
-//   }
-// }
