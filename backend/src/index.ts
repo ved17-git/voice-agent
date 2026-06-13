@@ -21,12 +21,12 @@ dotenv.config({ path: '.env' });
 
 export default defineAgent({
   prewarm: async (proc: JobProcess) => {
-    proc.userData.vad = await silero.VAD.load();   // vad -> sp to tx -> llm -> tx to sp -> res
+    proc.userData.vad = await silero.VAD.load();   
   },
   entry: async (ctx: JobContext) => {
     const vad = ctx.proc.userData.vad! as silero.VAD;
     
-    const initCollection=await Collections('my-collection') // from db.ts
+    const initCollection=await Collections('my-collection') 
     await upsertData(initCollection, knowledge)
 
     const session = new voice.AgentSession({

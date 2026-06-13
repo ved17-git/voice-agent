@@ -15,7 +15,8 @@
     "test:watch": "vitest",
     "dev": "pnpm run build && node dist/index.js dev",
     "download-files": "pnpm run build && npx livekit-agents download-files",
-    "start": "node dist/index.js start"
+    "start": "node dist/index.js start",
+    "seed":"tsx seed.tsx"
   },
   "engines": {
     "node": ">=22.0.0",
